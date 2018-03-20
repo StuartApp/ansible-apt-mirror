@@ -18,4 +18,5 @@ galaxy_info:
   categories:
   - packaging
   - system
-dependencies: []
+dependencies:
+  - mrlesmithjr.apache2
